@@ -1,2 +1,2 @@
+*.SQL linguist-language=SQL
 
-*.sql linguist-language=SQL
