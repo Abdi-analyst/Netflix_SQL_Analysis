@@ -1,2 +1,0 @@
-*.SQL linguist-language=SQL
-
